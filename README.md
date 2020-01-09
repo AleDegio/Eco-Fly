@@ -1,4 +1,4 @@
-# Drone_Guardiano
+# Eco-Fly
 Our project consist of use a Tello drone for monitor trails and detect obstacles on ones.
 The drone is controlled by a leap. 
 The leap is a three-dimensional control system connected to the computer, based on hand movements that detects the gestures.
