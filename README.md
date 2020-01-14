@@ -5,4 +5,4 @@
 * ### [Materials](https://github.com/AleDegio/Eco-Fly/wiki/Materials)
 
 
-This project was born thanks also to a collaboration with the Italian Institute of Technology (IIT) in Genoa, which gave us very interesting ideas during the PCTO (Alternanza Scuola-Lavoro) hours at ITIS Mario Delpozzo. 
+_This project was born thanks also to a collaboration with the Italian Institute of Technology (IIT) in Genoa, which gave us very interesting ideas during the PCTO (Alternanza Scuola-Lavoro) hours at ITIS Mario Delpozzo._ 
