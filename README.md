@@ -1,7 +1,8 @@
-# Eco-Fly
-## Project of De Giovannini Alessia, Gabutti Irene, Giusti Matteo and Lovera Asia. 
+# Eco-Fly 
+![logo](https://github.com/AleDegio/Eco-Fly/blob/master/Logo/Logo2.png)
 
 * ### [Description of our Progect](https://github.com/AleDegio/Eco-Fly/wiki/Description-of-our-Progect)
+* ### [Team](https://github.com/AleDegio/Eco-Fly/wiki/Team)
 * ### [Materials](https://github.com/AleDegio/Eco-Fly/wiki/Materials)
 
 
