@@ -1,5 +1,5 @@
 # Eco-Fly 
-![logo](https://github.com/AleDegio/Eco-Fly/blob/master/Logo/Logo2.png)
+![logo](https://github.com/AleDegio/Eco-Fly/blob/master/img/Logo2.png)
 
 * ### [Description of our Progect](https://github.com/AleDegio/Eco-Fly/wiki/Description-of-our-Progect)
 * ### [Team](https://github.com/AleDegio/Eco-Fly/wiki/Team)
