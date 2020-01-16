@@ -1,7 +1,7 @@
 # Eco-Fly 
 ![logo](https://github.com/AleDegio/Eco-Fly/blob/master/img/Logo2.png)
 
-* ### [Description of our Progect](https://github.com/AleDegio/Eco-Fly/wiki/Description-of-our-Progect)
+* ### [Description of our Project](https://github.com/AleDegio/Eco-Fly/wiki/Description-of-our-Project)
 * ### [Programs](https://github.com/AleDegio/Eco-Fly/wiki/Programs)
 * ### [Team](https://github.com/AleDegio/Eco-Fly/wiki/Team)
 * ### [Materials](https://github.com/AleDegio/Eco-Fly/wiki/Materials)
