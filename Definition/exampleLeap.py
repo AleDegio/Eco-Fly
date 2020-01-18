@@ -26,6 +26,7 @@ class FrontEnd(object):
         pygame.init()
 
         # Creat pygame window
+        
         pygame.display.set_caption("Tello video stream")
         self.screen = pygame.display.set_mode([960, 720])
 
@@ -90,6 +91,8 @@ class FrontEnd(object):
             frame = np.rot90(frame)
             frame = np.flipud(frame)
             frame = pygame.surfarray.make_surface(frame)
+            
+            
             #elaborazione del frame per riconoscere oggetti 
             #impartire comandi al drone sulla base del riconoscimento dell'ogg
             self.screen.blit(frame, (0, 0))
